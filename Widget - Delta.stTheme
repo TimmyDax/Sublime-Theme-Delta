@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>TimmyDax</string>
+	<key>comment</key>
+	<string>A dark theme for Macintosh</string>
+	<key>name</key>
+	<string>Delta</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#6A6A6A</string>
+				<key>caret</key>
+				<string>#FFFFFF</string>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+				<key>invisibles</key>
+				<string>#505050</string>
+				<key>lineHighlight</key>
+				<string>#333333</string>
+				<key>selection</key>
+				<string>#323f66</string>
+				<key>selectionBorder</key>
+				<string>#2e3958</string>
+				<key>inactiveSelection</key>
+				<string>#525252</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
