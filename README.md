@@ -1,4 +1,4 @@
-##Theme - Delta
+## Theme - Delta
 
 A MacOS-like dark theme for Sublime Text, based on [Soda Theme] by Ian Hill.
 
@@ -6,7 +6,7 @@ A MacOS-like dark theme for Sublime Text, based on [Soda Theme] by Ian Hill.
 
 Theme also includes retina (@2x) assets for use where applicable.
 
-###Installation
+### Installation
 This theme can be selected by cloning this package from GitHub:
 ```
 git clone https://github.com/TimmyDax/Sublime-Theme-Delta
@@ -17,7 +17,7 @@ To activate the theme, add or modify the theme key in your Sublime Text User Pre
 "theme": "Delta.sublime-theme"
 ```
 
-###Attribution
+### Attribution
 
 Any use or forks allowed, but attribution is politely requested.
 
