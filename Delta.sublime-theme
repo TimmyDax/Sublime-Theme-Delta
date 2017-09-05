@@ -276,7 +276,7 @@
 	// Standard vertical scroll puck
 	{
 		"class": "puck_control",
-		"layer0.texture": "Theme - Delta/images/scrollbar-puck-vertical.png",
+		"layer0.texture": "Theme - Delta/images/scrollbar-puck-vertical-full.png",
 		"layer0.opacity": 1.0,
 		"layer0.inner_margin": [0, 10],
 		"content_margin": [8, 12],
@@ -286,7 +286,7 @@
 	{
 		"class": "puck_control",
 		"attributes": ["horizontal"],
-		"layer0.texture": "Theme - Delta/images/scrollbar-puck-horizontal.png",
+		"layer0.texture": "Theme - Delta/images/scrollbar-puck-horizontal-full.png",
 		"layer0.inner_margin": [10, 0],
 		"content_margin": [12, 8],
 		"blur": false
@@ -296,7 +296,7 @@
 	{
 		"class": "puck_control",
 		"settings": ["soda_rect_scrollbars"],
-		"layer0.texture": "Theme - Delta/images/scrollbar-puck-square-vertical.png",
+		"layer0.texture": "Theme - Delta/images/scrollbar-puck-square-vertical-full.png",
 		"layer0.opacity": 1.0,
 		"layer0.inner_margin": [0, 10],
 		"content_margin": [8, 12],
@@ -307,7 +307,7 @@
 		"class": "puck_control",
 		"settings": ["soda_rect_scrollbars"],
 		"attributes": ["horizontal"],
-		"layer0.texture": "Theme - Delta/images/scrollbar-puck-square-horizontal.png",
+		"layer0.texture": "Theme - Delta/images/scrollbar-puck-square-horizontal-full.png",
 		"layer0.inner_margin": [10, 0],
 		"content_margin": [12, 8],
 		"blur": false
