@@ -1,6 +1,31 @@
 [
 
 //
+// Dark Title Bar for all files
+//
+
+    {
+        "class": "title_bar",
+        "fg": ["background", 255, 255, 255, 0.76],
+        "bg": ["background", 61, 61, 61, 1.0]
+    },
+    {
+        "class": "title_bar",
+        "attributes": ["file_dark"],
+        "bg": ["background", 61, 61, 61, 1.0]
+    },
+    {
+        "class": "title_bar",
+        "attributes": ["file_medium"],
+        "bg": ["background", 61, 61, 61, 1.0]
+    },
+    {
+        "class": "title_bar",
+        "attributes": ["file_light"],
+        "bg": ["background", 61, 61, 61, 1.0]
+    },
+
+//
 // TABS (REGULAR)
 //
 
